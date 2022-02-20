@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-# import pandas_datareader
+import pandas_datareader
 from pandas_datareader import data
 
 
